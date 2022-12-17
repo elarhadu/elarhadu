@@ -14,7 +14,9 @@
 <span>
 <img alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=elarhadu&show_icons=true&theme=radical">
 <img alt="Coding" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=elarhadu&theme=highcontrast">
+<img alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast">
  </span>
+
 
 ### Languages and Tools
 <span>
