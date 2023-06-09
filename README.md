@@ -29,7 +29,7 @@
 <p align="left" style="display: flex; gap: 2rem">
 <a href="https://twitter.com/elarh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elarh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuella-adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuella-adu" height="30" width="40" /></a>
-<a href="https://instagram.com/emma.nu.ella__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emma.nu.ella__" height="30" width="40" /></a>
+<a href="https://instagram.com/__emma.nu.ella__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emma.nu.ella__" height="30" width="40" /></a>
 <a href="https://medium.com/@elarhadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elarhadu" height="30" width="40" /></a>
 </p>
 
